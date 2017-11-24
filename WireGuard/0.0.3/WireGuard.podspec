@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.license      = "GPL v3.0"
   s.author       = "Dr. Brandon Wiley"
   s.platform     = :osx, '10.13'
-  s.source       = { :git => "https://github.com/OperatorFoundation/WireGuard/releases/tag/0.0.3" }
+  s.source       = { :git => "https://github.com/OperatorFoundation/WireGuard.git" }
   s.source_files  = "WireGuard", "WireGuard/**/*.{h,swift}"
 end
